@@ -1,6 +1,6 @@
 # MSCS_634_Lab_2 – KNN vs Radius Neighbors on Wine Dataset
 
-**Name:** Ajal RC 
+**Name:** Ajal RC </br>
 **Course:** MSCS 634 – Big Data and Data Mining  
 
 ## 1. Purpose
@@ -60,8 +60,8 @@ The dataset was split into 80% training data and 20% testing data using `train_t
 
 ## 7. Files in Repository
 
-- `lab2.ipynb` – Jupyter Notebook containing the full code, visualizations, and analysis.  
-- `README.md` – This documentation file.
+- `MSCS_634_Lab_2.ipynb` – Jupyter Notebook containing the full code, visualizations, and analysis.  
+- `readme.md` – This documentation file.
 
 ## 8. Reference
 
